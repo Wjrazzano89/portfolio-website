@@ -145,6 +145,12 @@ Secondary Color (Orange): #e0b354;
               flex-grow: 1;
       text-align: right;
     }
+
+    .home {
+      display: flex;
+      height: 300px;
+      width: 300px
+    }
   
     .navigation-list {
       list-style-type: none;
